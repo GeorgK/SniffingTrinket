@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-31 BZR 5247)-product   date = Sonntag, 14. Dezember 2014 13:47:33
+
+BeginCmp
+TimeStamp = /54833AF7;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54833B06;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54833B15;
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54833ADC;
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5480926E;
+Reference = LED1;
+ValeurCmp = WS2812;
+IdModule  = SniffingTrinket:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5480927D;
+Reference = LED2;
+ValeurCmp = WS2812;
+IdModule  = SniffingTrinket:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5480928C;
+Reference = LED3;
+ValeurCmp = WS2812;
+IdModule  = SniffingTrinket:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832E22;
+Reference = P1;
+ValeurCmp = Buzzer;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832E13;
+Reference = P2;
+ValeurCmp = Serial;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832CC1;
+Reference = P3;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54845E78;
+Reference = P4;
+ValeurCmp = MCUA;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x12;
+EndCmp
+
+BeginCmp
+TimeStamp = /54846466;
+Reference = P5;
+ValeurCmp = MCUB;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x12;
+EndCmp
+
+BeginCmp
+TimeStamp = /548324E9;
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54833243;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832EFE;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548325A7;
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548329B3;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548097B7;
+Reference = R5;
+ValeurCmp = 300;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832318;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54832EEF;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Discret:PUSH_BUTT_SHAPE1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54831D33;
+Reference = U1;
+ValeurCmp = MQ135;
+IdModule  = SniffingTrinket:MQ135;
+EndCmp
+
+BeginCmp
+TimeStamp = /54831D24;
+Reference = U2;
+ValeurCmp = DHT11;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+EndListe
